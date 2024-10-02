@@ -1,2 +1,3 @@
 # Lab2
-This repo is for the first lab in DevOps
+![workflow](https://github.com/brenda-leeCee/Lab1/actions/workflows/main.yml/badge.svg)
+![GitHub License](https://img.shields.io/github/license/brenda-leeCee/Lab1)
