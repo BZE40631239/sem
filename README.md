@@ -1,2 +1,2 @@
-# Lab1
+# Lab2
 This repo is for the first lab in DevOps
